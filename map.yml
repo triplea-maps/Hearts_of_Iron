@@ -1,0 +1,5 @@
+map_name: Hearts_of_Iron
+games:
+- {game_name: 'Hearts of Iron: The Rising Sun 1942', file_name: HeartsofIron-TheRisingSun.xml}
+- {game_name: 'Hearts of Iron: Awakening the giant', file_name: Hearts_of_iron_Awakening_the_Giants.xml}
+version: 0
